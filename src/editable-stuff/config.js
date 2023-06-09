@@ -135,4 +135,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, getInTouch, experiences };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
